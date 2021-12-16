@@ -53,3 +53,31 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 **Var - Variaveis:** São as etiquetas 
+
+	---------------------------------
+	
+**Identificadores:**
+* Devem começar com uma letra; 
+* Os próximos caracteres podem ser letras ou números;
+* Não pode se utilizar nenhum símbolo, exeto _ ; 
+* Não pode tem espaços em brancos;
+* Não pode ter acentos;
+* Não pode ser uma palavra reservada.
+
+**Palavra reservada** (ex do visualg): algoritmo, var, inicio, fimalgoritmo
+
+**Ex Identificador:**
+
+✔️ é um identificador válido
+❌ Não é um identificador válido
+
+	Nota1 ✔️
+	Média ❌ contem acento
+	Salário Bruto ❌ tem acento e espaço em branco
+	9dade ❌ não começa com uma letra
+	Algoritmo ❌ é uma palavra reservada
+	Inicio_Algoritmo ✔️
+	
+
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
