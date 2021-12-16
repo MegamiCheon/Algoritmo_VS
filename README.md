@@ -3,7 +3,7 @@ Repositório para guardar anotações e testes/exercícios
 
 Algoritmo - Rotina
 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Exemplo**
+#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Exemplo**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 	AtravessarRua
@@ -28,7 +28,7 @@ Algoritmo - Rotina
 		Fim-se
 	Fim-Algoritmo
 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Algoritmos Computacionais**
+#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Algoritmos Computacionais**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 São passos a serem seguidos por um **módulo processador** e seus respectivos **usuários** que, quando executados na ordem correta, conseguem **realizar** determinada **tarefa**.
@@ -39,7 +39,7 @@ São passos a serem seguidos por um **módulo processador** e seus respectivos *
 
 * Realizar tarefa: Resolver o problema
 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Passos**
+#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Passos**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 Lógica de programação ➔ Escrever a lógica em uma linguagem de programação (Java, JavaScript, Php, VisualBase...) ➔ Formar um sistema completo (Aplicativo, Software)
@@ -49,12 +49,12 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 * Para representação em fluxograma: Lucidchart
 * Para representação em Portugol: Visualg
 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Informações**
+#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Informações**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 **Var - Variaveis:** São as etiquetas 
 
-# **Identificadores:**
+**Identificadores:**
 * Devem começar com uma letra; 
 * Os próximos caracteres podem ser letras ou números;
 * Não pode se utilizar nenhum símbolo, exeto _ ; 
@@ -76,7 +76,7 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	Algoritmo ❌ é uma palavra reservada
 	Inicio_Algoritmo ✔️
 	
-# **Tipos - primitivos:**
+**Tipos - primitivos:**
 
 * **Inteiro:** 1, 3, -5, 198, 0 - Números que não são fracionarios
 * **Real:** 0.5, 5.0, 9.8, -77.3 3.1415 - Números fracionarios
@@ -97,10 +97,10 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 
 	msg <- "Hello World!"
 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Visualg**
+#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Visualg**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
-# **Comandos de Saída:**
+**Comandos de Saída:**
 
 **Escreva:**
 * Escreva("mensagem")
