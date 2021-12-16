@@ -1,14 +1,13 @@
 # Algoritmo_VS
 Repositório para guardar anotações e testes/exercícios
 
+Algoritmo - Rotina
+
 ````````````````````````````````````````````````````````
 ````````````````````````````````````````````````````````
-
-Algoritmos - Rotinas
-
 	--------------------------------------
 
-`Ex: AtravessarRua
+Ex: AtravessarRua
 		Olhar para a direita
 		Olhar para a esquerda
 		Se(If) estiver vindo carro
@@ -29,7 +28,6 @@ Algoritmos - Rotinas
 			Não atravesse
 		Fim-se
 	Fim-Algoritmo``
-
 
 ````````````````````````````````````````````````````````
 ````````````````````````````````````````````````````````
