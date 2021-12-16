@@ -54,8 +54,6 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 
 **Var - Variaveis:** São as etiquetas 
 
-	---------------------------------
-	
 **Identificadores:**
 * Devem começar com uma letra; 
 * Os próximos caracteres podem ser letras ou números;
@@ -78,6 +76,24 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	Algoritmo ❌ é uma palavra reservada
 	Inicio_Algoritmo ✔️
 	
+**Tipos - primitivos:**
+
+* **Inteiro:** 1, 3, -5, 198, 0 - Números que não são fracionarios
+* **Real:** 0.5, 5.0, 9.8, -77.3 3.1415 - Números fracionarios
+* **Caractere:** "Gustavo", "Algoritmo", "123" - Precisa de ""
+* **Lógico:** Verdadeiro e Falso - Apenas estes dois
+
+**Ex Var:**	
+	var
+		identificador: tipo
+		
+		===================		
+
+	var
+		msg: caractere
+
+Atribuição:
+	msg <- "Hello World!"
 
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
