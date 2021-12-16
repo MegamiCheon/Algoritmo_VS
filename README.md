@@ -3,7 +3,7 @@ Repositório para guardar anotações e testes/exercícios
 
 Algoritmo - Rotina
 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Exemplo**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 	AtravessarRua
@@ -28,28 +28,28 @@ Algoritmo - Rotina
 		Fim-se
 	Fim-Algoritmo
 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
-
-Algoritmos Computacionais - Rotinas do Computador
-
-São passos a serem seguidos por um ´módulo processador´ e seus respectivos ´usuários´ que, quando executados na ordem correta, conseguem realizar determinada ´tarefa´.
-
-´Módulo processador: Tudo aquilo que pode efetuar processamento
-
-´Usuário: Quem utiliza o algoritmo
-
-´Realizar tarefa: Resolver o problema
-
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Algoritmos Computacionais**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
-Lógica de programação -> Escrever a lógica em uma linguagem de programação (Java, JavaScript, Php, VisualBase...) -> Formar um sistema completo (Aplicativo, Software)
+São passos a serem seguidos por um **módulo processador** e seus respectivos **usuários** que, quando executados na ordem correta, conseguem **realizar** determinada **tarefa**.
+
+* Módulo processador: Tudo aquilo que pode efetuar processamento
+
+* Usuário: Quem utiliza o algoritmo
+
+* Realizar tarefa: Resolver o problema
+
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Passos**
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+
+Lógica de programação ➔ Escrever a lógica em uma linguagem de programação (Java, JavaScript, Php, VisualBase...) ➔ Formar um sistema completo (Aplicativo, Software)
 
 * Para representação da ´Lógica de Programação´ se utiliza: Fluxogramas, Portugol
 
 * Para representação em fluxograma: Lucidchart
-Para representação em Portugol: Visualg
+* Para representação em Portugol: Visualg
 
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Informações**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+
+**Var - Variaveis:** São as etiquetas 
