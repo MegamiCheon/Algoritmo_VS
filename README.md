@@ -54,7 +54,7 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 
 **Var - Variaveis:** São as etiquetas 
 
-**Identificadores:**
+# **Identificadores:**
 * Devem começar com uma letra; 
 * Os próximos caracteres podem ser letras ou números;
 * Não pode se utilizar nenhum símbolo, exeto _ ; 
@@ -76,14 +76,15 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	Algoritmo ❌ é uma palavra reservada
 	Inicio_Algoritmo ✔️
 	
-**Tipos - primitivos:**
+# **Tipos - primitivos:**
 
 * **Inteiro:** 1, 3, -5, 198, 0 - Números que não são fracionarios
 * **Real:** 0.5, 5.0, 9.8, -77.3 3.1415 - Números fracionarios
 * **Caractere:** "Gustavo", "Algoritmo", "123" - Precisa de ""
 * **Lógico:** Verdadeiro e Falso - Apenas estes dois
 
-**Ex Var:**	
+**Ex Var:**
+
 	var
 		identificador: tipo
 		
@@ -92,8 +93,19 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	var
 		msg: caractere
 
-Atribuição:
+**Atribuição:**
+
 	msg <- "Hello World!"
 
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Visualg**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+
+# **Comandos de Saída:**
+
+**Escreva:**
+* Escreva("mensagem")
+* Escreva(nome var) ´´´ Escreve a atribuição
+* Escreva("mensagem", nome var) ´´´ Escreve a mensagem e a atribuição
+
+**Escreval:** 
+* Escreval("msg") ´´´ Escreve e pula linha'
