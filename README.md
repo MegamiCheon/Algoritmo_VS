@@ -3,7 +3,7 @@ Repositório para guardar anotações e testes/exercícios
 
 Algoritmo - Rotina
 
-#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Exemplo**
+# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Exemplo**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 	AtravessarRua
@@ -28,7 +28,7 @@ Algoritmo - Rotina
 		Fim-se
 	Fim-Algoritmo
 
-#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Algoritmos Computacionais**
+# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Algoritmos Computacionais**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 São passos a serem seguidos por um **módulo processador** e seus respectivos **usuários** que, quando executados na ordem correta, conseguem **realizar** determinada **tarefa**.
@@ -39,7 +39,7 @@ São passos a serem seguidos por um **módulo processador** e seus respectivos *
 
 * Realizar tarefa: Resolver o problema
 
-#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Passos**
+# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Passos**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 Lógica de programação ➔ Escrever a lógica em uma linguagem de programação (Java, JavaScript, Php, VisualBase...) ➔ Formar um sistema completo (Aplicativo, Software)
@@ -49,7 +49,7 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 * Para representação em fluxograma: Lucidchart
 * Para representação em Portugol: Visualg
 
-#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Informações**
+# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Informações**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 **Var - Variaveis:** São as etiquetas 
@@ -97,7 +97,7 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 
 	msg <- "Hello World!"
 
-#´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Visualg**
+# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Visualg**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 **Comandos de Saída:**
