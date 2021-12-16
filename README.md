@@ -15,8 +15,6 @@ Algoritmo - Rotina
 			Atravesse
 		Fim-se
 	Fim-Algoritmo
-	
-	--------------------------------------
 
 	AtravessarRua
 		Olhar para a esquerda
