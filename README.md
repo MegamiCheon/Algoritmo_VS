@@ -109,3 +109,18 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 
 **Escreval:** 
 * Escreval("msg") ´´´ Escreve e pula linha'
+
+**Comando de Entrada:**
+
+* Leia(nome var) ´´´ Pede algo, espera ser digitado
+
+# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Operadores Aritméticos**
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+
+	+ Adição		A + B
+	- Subtração		A - B
+	* Multiplicação		A * B
+	/ Divisão		A / B
+	\ Divisão Inteira	A \ B
+	^ Exponenciação		A ^ B
+	% Módulo		A % B
