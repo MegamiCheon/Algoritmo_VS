@@ -6,6 +6,8 @@ Repositório para guardar anotações e testes/exercícios
 
 Algoritmos - Rotinas
 
+	--------------------------------------
+
 Ex: AtravessarRua
 		Olhar para a direita
 		Olhar para a esquerda
