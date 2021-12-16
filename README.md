@@ -6,7 +6,7 @@ Algoritmo - Rotina
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
-`Ex: AtravessarRua
+	AtravessarRua
 		Olhar para a direita
 		Olhar para a esquerda
 		Se(If) estiver vindo carro
@@ -16,6 +16,8 @@ Algoritmo - Rotina
 		Fim-se
 	Fim-Algoritmo
 
+	--------------------------------------
+
 	AtravessarRua
 		Olhar para a esquerda
 		Olhar para a direita
@@ -24,7 +26,7 @@ Algoritmo - Rotina
 		Senão(else)
 			Não atravesse
 		Fim-se
-	Fim-Algoritmo`
+	Fim-Algoritmo
 
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
