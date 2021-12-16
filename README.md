@@ -8,7 +8,7 @@ Algoritmos - Rotinas
 
 	--------------------------------------
 
-Ex: AtravessarRua
+`Ex: AtravessarRua
 		Olhar para a direita
 		Olhar para a esquerda
 		Se(If) estiver vindo carro
@@ -28,7 +28,8 @@ Ex: AtravessarRua
 		Senão(else)
 			Não atravesse
 		Fim-se
-	Fim-Algoritmo
+	Fim-Algoritmo``
+
 
 ````````````````````````````````````````````````````````
 ````````````````````````````````````````````````````````
