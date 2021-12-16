@@ -114,8 +114,10 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 
 * Leia(nome var) ´´´ Pede algo, espera ser digitado
 
-# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Operadores Aritméticos**
+# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Aritimética**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+
+**Operadores Aritméticos**
 
 	+ Adição		A + B
 	- Subtração		A - B
@@ -124,3 +126,14 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	\ Divisão Inteira	A \ B
 	^ Exponenciação		A ^ B
 	% Módulo		A % B
+
+**Funções Aritiméticas**
+
+	Abs	Valor Absoluto
+	Exp	Exponenciação
+	Int	Valor Inteiro
+	RaizQ	Raiz Quadrada
+	Pi	Retorna o valor de Pi
+	Sen	Seno(rad)
+	Cos	Cosseno(rad)
+	Tan	Tangente(rad)
