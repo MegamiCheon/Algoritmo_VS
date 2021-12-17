@@ -146,3 +146,17 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	Sen	Seno(rad)
 	Cos	Cosseno(rad)
 	Tan	Tangente(rad)
+	
+**Operadores Lógicos:**
+
+	p q - p E q
+	V V - V
+	V F - F
+	F V - F
+	F F -f
+
+	p q - p OU q
+	V V - V
+	V F - V
+	F V - V
+	F F - F	
