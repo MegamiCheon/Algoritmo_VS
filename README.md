@@ -126,6 +126,15 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	\ Divisão Inteira	A \ B
 	^ Exponenciação		A ^ B
 	% Módulo		A % B
+	
+**Operadores Relacionais**
+
+	> Maior que
+	< Menor que
+	= Igual a
+	<> Diferente de
+	>= Maior ou igual
+	<= Menor ou igual
 
 **Funções Aritiméticas**
 
