@@ -114,7 +114,7 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 
 * Leia(nome var) ´´´ Pede algo, espera ser digitado
 
-# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Aritimética**
+# ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´ **Operadores**
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 **Operadores Aritméticos**
