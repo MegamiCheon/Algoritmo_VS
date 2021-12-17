@@ -153,7 +153,7 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	V V - V
 	V F - F
 	F V - F
-	F F -f
+	F F - F
 
 	p q - p OU q
 	V V - V
