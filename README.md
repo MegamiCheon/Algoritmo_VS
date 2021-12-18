@@ -127,6 +127,7 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	^ Exponenciação		A ^ B
 	% Módulo		A % B
 	
+	
 **Operadores Relacionais**
 
 	> Maior que
@@ -135,17 +136,7 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	<> Diferente de
 	>= Maior ou igual
 	<= Menor ou igual
-
-**Funções Aritiméticas**
-
-	Abs	Valor Absoluto
-	Exp	Exponenciação
-	Int	Valor Inteiro
-	RaizQ	Raiz Quadrada
-	Pi	Retorna o valor de Pi
-	Sen	Seno(rad)
-	Cos	Cosseno(rad)
-	Tan	Tangente(rad)
+	
 	
 **Operadores Lógicos:**
 
@@ -164,3 +155,40 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 	p - NÃO p
 	V - F
 	F - V
+	
+	
+**Lógicos e Aritméticos
+* Ordem**
+
+* **Aritméticos:**
+	
+		()
+		^
+		*/
+		+-
+		
+* **Relacionais:**
+	
+		>
+		<
+		>=
+		<=
+		=
+		<>
+* **Lógicos:**
+	
+		E
+		OU
+		NÃO
+		
+		
+**Funções Aritiméticas**
+
+	Abs	Valor Absoluto
+	Exp	Exponenciação
+	Int	Valor Inteiro
+	RaizQ	Raiz Quadrada
+	Pi	Retorna o valor de Pi
+	Sen	Seno(rad)
+	Cos	Cosseno(rad)
+	Tan	Tangente(rad)
