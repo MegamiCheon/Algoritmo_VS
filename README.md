@@ -67,7 +67,7 @@ Lógica de programação ➔ Escrever a lógica em uma linguagem de programaçã
 **Ex Identificador:**
 
 ✔️ é um identificador válido
-❌ Não é um identificador válido
+❌ não é um identificador válido
 
 	Nota1 ✔️
 	Média ❌ contem acento
